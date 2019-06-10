@@ -17,7 +17,7 @@ ext {
     siteUrl = 'https://github.com/RicardoBravoA/DemoArtifactory'
     gitUrl = 'https://github.com/RicardoBravoA/DemoArtifactory.git'
 
-    libraryVersion = '0.0.1'
+    libraryVersion = '0.0.2'
 
     developerId = 'ricardobravoa'
     developerName = 'Ricardo Bravo'
@@ -36,7 +36,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0"
+        versionName "0.0.2"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
