@@ -17,7 +17,7 @@ ext {
     siteUrl = 'https://github.com/RicardoBravoA/DemoArtifactory'
     gitUrl = 'https://github.com/RicardoBravoA/DemoArtifactory.git'
 
-    libraryVersion = '0.0.2'
+    libraryVersion = '0.0.3'
 
     developerId = 'ricardobravoa'
     developerName = 'Ricardo Bravo'
