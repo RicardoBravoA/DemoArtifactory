@@ -8,6 +8,171 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/BCPView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/SettingsActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/app/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/model/GitHubErrorResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/util/Extensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/java/com/bcp/core/resources/sample/widget/BCPButton.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/drawable/background_button_disable.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/drawable/background_button_enable.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/drawable/background_button_normal.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/drawable/bakground_button_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/drawable/color_text_button_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/layout/content_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/layout/content_settings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/custom_first_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/custom_second_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/custom_third_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/java/com/bcp/core/resources/resources/Theme.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/java/com/bcp/core/resources/resources/ThemeManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/drawable/shape_button_bcp_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/attrs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/bcp_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/enalta_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/first_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BCPCoreResources/resources/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CoreNetworking/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../CoreNetworking/bcpcorenetworking/build.gradle">
           <value>
             <set />
@@ -24,6 +189,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/rba/demo/artifactory/sample/MainActivity.kt">
           <value>
             <set />
           </value>
